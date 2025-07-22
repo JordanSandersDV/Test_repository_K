@@ -1,0 +1,8 @@
+﻿SET QUOTED_IDENTIFIER, ANSI_NULLS ON
+GO
+
+CREATE PROCEDURE [dbo].[object_viewer_procedure] @c1 INT AS
+BEGIN
+SELECT 1;
+END
+GO
